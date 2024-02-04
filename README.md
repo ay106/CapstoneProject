@@ -3,7 +3,7 @@
 ## Ashley You, class of Fall 2025
 
 ### Methods:
-1. Collect CSV's for trials, patents, publications, grants, and companies
+1. Collect CSV's for trials, patents, publications, grants, and companies__
      a) create separate CSV's for each variable
 3. Clean list of names
 4. Clean CSV's
