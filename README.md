@@ -3,9 +3,13 @@
 ## Ashley You, class of Fall 2025
 
 ### Methods:
-1. Collect CSV's for trials, patents, publications, grants, and companies  <br />
- a) create separate CSV's for each variable
-3. Clean list of names
-4. Clean CSV's
+1. Collect names of physician-scientists <br />
+ a) Webscrape list of names <br />
+ b) clean names <br />
+ c) keep names in CSV file <br />
+
+2. Collect CSV's for trials, patents, publications, grants, and companies  <br />
+  a) create separate CSV's for each variable <br />
+  b) query from DimensionsAI API
 
 
