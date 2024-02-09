@@ -9,7 +9,9 @@
  c) keep names in CSV file <br />
 
 2. Collect CSV's for trials, patents, publications, grants, and companies  <br />
-  a) create separate CSV's for each variable <br />
-  b) query from DimensionsAI API
+  a) Queried DimensionsAI with list of names and debugged query <br />
+  b) saved raw data into JSON files <br />
+  c) clean JSON file
+  d) convert JSON files to CSV files
 
 
