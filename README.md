@@ -1,4 +1,4 @@
-# Capstone Project Spring 2024: Data Science Analysis- Physician-Scientists and tracking their research
+# Capstone Project Spring 2024: Data Science Analysis-  Deciphering the Innovation Pipeline of Physician-Scientists
 
 ## Ashley You, class of Fall 2025
 
