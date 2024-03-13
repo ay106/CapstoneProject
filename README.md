@@ -5,6 +5,10 @@
 ==> Raw data CSV's are in this google drive folder because they are too big to upload to Github:
 [https://drive.google.com/drive/folders/1SOqsSAvsrcSaipynXAbk2A-OkFWVRudL?usp=drive_link]
 
+## Sources:
+~ Names of Physician-Scientists that were easily accessible and credible were webscraped from:
+[Link to Source:](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
+
 ### Methods:
 1. Collect names of physician-scientists <br />
  a) Webscrape list of names from the ASCI induction year 1995 and 2010 <br />
