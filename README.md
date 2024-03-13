@@ -11,14 +11,14 @@
  b) Organized the list of names and associate institutions and specialties in a CSV <br />
  c) keep names in CSV file called 1995_2010_details.csv <br />
 
-2. Collect CSV's for trials, patents, publications, grants, and companies  <br />
+2. Collect CSV's for trials, patents, publications, and grants  <br />
   a) Queried DimensionsAI and OpenAlex for Ids associated with the list of ASCI names <br />
   b) Looked over the list of Ids outputted for each name and manually disambiguated and chose the right Id(s) for each person <br />
   c) Queried each database with the associated name Id and saved the raw data into JSON files <br />
-  d) Converted JSON files to CSV files
+  d) Converted JSON files to CSV files <br />
 
-3. Cleaned the CSV files that contained outputs (Clinical Trials, Patents, Grants, Publications)
-  a) CSV files contained duplicates from the queries, so I removed duplicated rows
-  b) Unicode was found in some titles, so I filtered each title to reflect the alphabet
+3. Cleaned the CSV files that contained outputs (Clinical Trials, Patents, Grants, Publications) <br />
+  a) CSV files contained duplicates from the queries, so I removed duplicated rows <br />
+  b) Unicode was found in some titles, so I filtered each title to reflect the alphabet <br />
 
 
