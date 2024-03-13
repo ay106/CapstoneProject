@@ -7,7 +7,7 @@
 
 ## Sources:
 ~ Names of Physician-Scientists that were easily accessible and credible were webscraped from The American Society for Clinical Investigation:
-[here](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
+[ASCI](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
 
 ### Methods:
 1. Collect names of physician-scientists <br />
