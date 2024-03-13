@@ -6,8 +6,8 @@
 [https://drive.google.com/drive/folders/1SOqsSAvsrcSaipynXAbk2A-OkFWVRudL?usp=drive_link]
 
 ## Sources:
-~ Names of Physician-Scientists that were easily accessible and credible were webscraped from:
-[Link to Source](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
+~ Names of Physician-Scientists that were easily accessible and credible were webscraped from The American Society for Clinical Investigation:
+[here](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
 
 ### Methods:
 1. Collect names of physician-scientists <br />
