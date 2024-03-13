@@ -7,7 +7,8 @@
 
 ## Sources:
 ~ Names of Physician-Scientists that were easily accessible and credible were webscraped from The American Society for Clinical Investigation:
-[ASCI](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home)
+[ASCI](https://data.the-asci.org/controllers/asci/DirectoryController.php?action=home) <br />
+~ Grants, Clinical Trials, and Patents created by these physicians were queried with the DimensionAI Database: [ASCI](https://app.dimensions.ai)
 
 ### Methods:
 1. Collect names of physician-scientists <br />
